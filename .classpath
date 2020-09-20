@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Abhinav Kr/Desktop/Selenium docs/Synechron_ Automation/SeleniumFiles_NSEit/ExcelJars/dom4j-1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Abhinav Kr/Desktop/Selenium docs/Synechron_ Automation/SeleniumFiles_NSEit/ExcelJars/poi-3.6-20091214.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Abhinav Kr/Desktop/Selenium docs/Synechron_ Automation/SeleniumFiles_NSEit/ExcelJars/poi-ooxml-3.6-20091214.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Abhinav Kr/Desktop/Selenium docs/Synechron_ Automation/SeleniumFiles_NSEit/ExcelJars/poi-ooxml-schemas-3.6-20091214.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Abhinav Kr/Desktop/Selenium docs/Synechron_ Automation/SeleniumFiles_NSEit/ExcelJars/ShineXLS.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Abhinav Kr/Desktop/Selenium docs/Synechron_ Automation/SeleniumFiles_NSEit/ExcelJars/xmlbeans-2.3.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
