@@ -11,7 +11,7 @@ public class Add2Num {
 		int c= sum(a,b) + 30;
 		System.out.println(c);
 		System.out.println(b);
-		System.out.println(a+b+c);
+		System.out.println(a+b-c);
 	}
 	public static int sum(int x, int y) {
 		//int z =x+y;
